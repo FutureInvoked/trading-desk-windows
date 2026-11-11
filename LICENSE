@@ -1,0 +1,27 @@
+Trading Desk, public edition
+Copyright (c) 2026 futureinvoked.uk. All rights reserved.
+
+Permission is granted to any person who obtains a copy of this software from
+https://futureinvoked.uk to download it, run it, and read and modify its source
+code for that person's own evaluation and personal use.
+
+You may not sell this software, redistribute it or modified versions of it, or
+use it or any part of it in a product or service offered to others, without
+prior written permission. To ask for permission: futureinvoked@proton.me
+
+This software is decision support only. It is not financial, investment, tax or
+legal advice, and it does not place orders.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+Third-party software
+
+src/desk/app/static/vendor/ contains TradingView Lightweight Charts, copyright
+TradingView, Inc., under the Apache License 2.0. Its licence and notice are in
+that folder. The Python dependencies listed in pyproject.toml are installed
+separately and remain under their own licences.
